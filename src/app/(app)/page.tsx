@@ -59,7 +59,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="text-center md:p-6 p-4 bg-gray-900 text-white">
-        © 2023 Mystery Messages. All rights reserved.
+         © 2023 Shadow Gram. All rights reserved.
       </footer>
     </>
   );
